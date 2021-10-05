@@ -1,3 +1,2 @@
-def sum:
+def square:
   print(x*x)
-  
