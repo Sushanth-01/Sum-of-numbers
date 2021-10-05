@@ -1,3 +1,3 @@
 def sum:
-  print(x*x)
+  print(x/x)
   
